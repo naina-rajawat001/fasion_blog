@@ -1,2 +1,2 @@
-# isafasionblog
-welcome in my new fasion blog 
+# isafashionblog
+welcome in my new fashion blog 
